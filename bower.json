@@ -1,13 +1,6 @@
 {
   "name": "gulp-pizza",
-  "version": "0.0.1",
-  "homepage": "https://github.com/jedmao/gulp-pizza",
-  "authors": [
-    "\"Jed Mao\" <jed.hunsaker+npm@gmail.com>"
-  ],
-  "description": "Example using gulp.js to build a site",
-  "main": "index.js",
-  "license": "MIT",
+  "version": "0.0.0",
   "private": true,
   "ignore": [
     "**/.*",
